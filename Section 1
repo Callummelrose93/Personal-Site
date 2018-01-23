@@ -1,4 +1,24 @@
-Why 
-- Helped Others and Use Referencable Customers
-- Certified by GA
-- Worked in Bizz Dev at RM, Buildium & Scandit
+
+*/Each section will be next to each other 
+
+<h2>Why</h2> 
+
+<div>
+<h3> Helped Others and Use Referencable Customers </h3>
+*/Look into a Javascript Carousel to perform within the div*/ 
+<span> 
+</div>
+
+<div>
+<h3> Certified by GA </h3>
+<img ="GA Logo">
+<p>GA is a Mass Accredited Institution</p>
+</div>
+
+<div>
+<h3> Worked in Bizz Dev at RM, Buildium & Scandit </h3>
+<img ="RM Logo">
+<img ="Buildium Logo">
+<img ="Scandit Logo">
+<p>Skilled Sales Professional that understands the market</p>
+</div>
